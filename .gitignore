@@ -222,3 +222,5 @@ data/**/*.csv
 
 # Ensure .gitkeep files are never ignored
 !.gitkeep
+
+postgis_data/
