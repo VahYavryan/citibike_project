@@ -4,7 +4,7 @@ This project analyzes Citi Bike trip data from Jersey City using Python and Tabl
 
 ## Links
 
-- Dashboard: [[Tableau Public link](https://public.tableau.com/app/profile/vahe.yavryan/viz/CitiBikeJC2025/         JCCitiBikeDashboard)]
+- Dashboard: [[Tableau Public link](https://public.tableau.com/app/profile/vahe.yavryan/viz/CitiBikeJC2025/)]
 - Project Presentation: [[Presentation repo link](https://github.com/VahYavryan/presentation)]
 
 ## Overview
