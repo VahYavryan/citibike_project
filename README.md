@@ -2,6 +2,11 @@
 
 This project analyzes Citi Bike trip data from Jersey City using Python and Tableau. It covers the full pipeline — from raw data acquisition through cleaning, weather enrichment, geospatial analysis, database storage, and an interactive dashboard.
 
+## Links
+
+- Dashboard: [[Tableau Public link](https://public.tableau.com/app/profile/vahe.yavryan/viz/CitiBikeJC2025/         JCCitiBikeDashboard)]
+- Project Presentation: [[Presentation repo link](https://github.com/VahYavryan/presentation)]
+
 ## Overview
 
 The pipeline pulls monthly Citi Bike trip data, daily weather data, and Jersey City neighborhood boundaries, cleans and merges them into an analysis-ready dataset, loads the result into a PostGIS-enabled PostgreSQL database, and visualizes it through a Tableau dashboard.
